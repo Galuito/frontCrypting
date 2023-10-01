@@ -1,0 +1,25 @@
+{
+  "name": "frontcrypting",
+  "version": "1.0.0",
+  "description": "The repository in which the frontend of a test encrypting application is going to be stored.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Hi, this is my test\"",
+    "start": "node main.js",
+    "dev": "node --watch main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galuito/frontCrypting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Galuito/frontCrypting/issues"
+  },
+  "homepage": "https://github.com/Galuito/frontCrypting#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
